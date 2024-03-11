@@ -10,4 +10,4 @@ A simple PCB as a beer mug warmer powered by a USB PD source
 * [Status](#status)
 * [License](#license)
 ## Topology
-![Diagram](./Documentation/Images/Diagram.drawio.svg)
+![Diagram](./Documentation/Diagram.drawio.svg)
