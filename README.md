@@ -25,6 +25,11 @@ The AND gate is used to protect the circuit from overheating and against softwar
 - touch sensor output
 - output from the microcontroller
 
+Two LEDs are used to monitor the status of the device:
+- LED_TEST. Is used to control LED flickering. The user is notified of the system status from the LED flashing pattern. Any non-PD power source is not supported in the AP33771, and the LED will show the mismatch accordingly.
+![LED](./Documentation/LED.jpg)
+- LED. It is controlled by a microcontroller. Flashing at a frequency of once per second means that current is being applied to the load. If the diode shines continuously, the device has reached a temperature of about 70 degrees. If the diode flashes quickly (about 2 times per second) there is an error in reading the temperature sensor.
+
 After checking the fucnition of the board, I suggest you desolder the DF13A socket and put conformal coating on both sides of the board to protect the circuit from possible damage from flooding.
 ## Status
 Task closed
