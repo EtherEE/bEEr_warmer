@@ -26,5 +26,10 @@ The AND gate is used to protect the circuit from overheating and against softwar
 - touch sensor output
 - output from the microcontroller
 
+After checking the fucnition of the board, I suggest you desolder the DF13A socket and put conformal coating on both sides of the board.
+## Status
+Closed
+## License
+MIT
 
 
