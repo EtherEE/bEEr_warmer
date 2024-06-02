@@ -3,10 +3,8 @@ A simple PCB as a beer mug warmer powered by The USB type C Power Delivery sourc
 ## Table of contents
 * [General info](#general-info)
 * [Topology](#topology)
-* [Technologies](#technologies)
 * [PCB](#pcb)
 * [Setup](#setup)
-* [Main components selection](#main-components-selection)
 * [Status](#status)
 * [License](#license)
 ## General info
@@ -26,9 +24,9 @@ The AND gate is used to protect the circuit from overheating and against softwar
 - touch sensor output
 - output from the microcontroller
 
-After checking the fucnition of the board, I suggest you desolder the DF13A socket and put conformal coating on both sides of the board.
+After checking the fucnition of the board, I suggest you desolder the DF13A socket and put conformal coating on both sides of the board to protect the circuit from possible damage from flooding.
 ## Status
-Closed
+Task closed
 ## License
 MIT
 
