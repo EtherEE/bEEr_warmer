@@ -1,5 +1,5 @@
 # bEEr_warmer
-A simple PCB as a beer mug warmer powered by a USB PD source
+A simple PCB as a beer mug warmer powered by The USB type C Power Delivery source
 ## Table of contents
 * [General info](#general-info)
 * [Topology](#topology)
